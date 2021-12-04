@@ -10,6 +10,8 @@ public class Main {
         TextArea poleTekstoweB = new TextArea();
         System.out.println(poleTekstoweB.tekst());
 
+        Park park = new Park();
+
 
 
        /* Figura2D figura = new Figura2D() ;
